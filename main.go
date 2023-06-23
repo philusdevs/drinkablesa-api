@@ -6,6 +6,8 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+
+	"github.com/joho/godotenv"
 )
 
 type Municipality struct {
@@ -20,6 +22,11 @@ type MunicipalityData struct {
 }
 
 func main() {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+
 	file, err := os.Open("data.json")
 	if err != nil {
 		log.Fatal(err)
@@ -30,6 +37,11 @@ func main() {
 	err = json.NewDecoder(file).Decode(&data)
 	if err != nil {
 		log.Fatal(err)
+	}
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080" // fallback to port 8080 if $PORT is not set
 	}
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
@@ -58,6 +70,6 @@ func main() {
 		json.NewEncoder(w).Encode(map[string]string{"error": "Municipality not found"})
 	})
 
-	log.Println("Server started on http://localhost:8080")
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	log.Println("Server started on http://localhost:" + port)
+	log.Fatal(http.ListenAndServe(":"+port, nil))
 }

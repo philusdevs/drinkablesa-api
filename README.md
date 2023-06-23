@@ -26,6 +26,8 @@ To set up the project,follow these steps:
 
 ## Configuration
 
+The API requires a configuration file named `.env` in the root directory. Create the file and define the following environment variables:
+
 ```
 PORT=8080
 ```

@@ -4,7 +4,7 @@ The `drinkablesa-api` is a Go-based web application that provides access to data
 
 ## Installation
 
-To set up the project, follow these steps:
+To set up the project,follow these steps:
 
 1. Clone the repository:
 

@@ -1,5 +1,7 @@
 # drinkablesa-api
 
+[View Live](https://drinkablesa-api-b93993490e91.herokuapp.com)
+
 The `drinkablesa-api` is a Go-based web application that provides access to data on various water municipalities in South Africa. The API allows users to retrieve information such as municipal water data, disinfectant levels, non-health aesthetic levels, and operational levels for each municipality.
 
 ## Installation

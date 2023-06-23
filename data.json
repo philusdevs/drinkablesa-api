@@ -1,0 +1,730 @@
+{
+    "municipalities": [
+      {
+        "name": "!Kheis Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Albert Luthuli Local Municipality",
+        "municipal": "0%",
+        "disinfectant": "90%",
+        "non_health_aesthetic": "66%"
+      },
+      {
+        "name": "Alfred Nzo District municipality",
+        "municipal": "17%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "96%"
+      },
+      {
+        "name": "Amajuba District municipality",
+        "municipal": "28%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Amatole District municipality",
+        "municipal": "15%",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "81%"
+      },
+      {
+        "name": "Beaufort West Local Municipality",
+        "municipal": "77%",
+        "disinfectant": "94%",
+        "non_health_aesthetic": "96%"
+      },
+      {
+        "name": "Bela-Bela Local Municipality",
+        "municipal": "56%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Bergrivier Local Municipality",
+        "municipal": "14%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "93%"
+      },
+      {
+        "name": "Bitou Local Municipality",
+        "municipal": "100%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "100%"
+      },
+      {
+        "name": "Blue Crane Route Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "80%"
+      },
+      {
+        "name": "Breede Valley Local Municipality",
+        "municipal": "64%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Buffalo City Local Municipality",
+        "municipal": "98%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "87%"
+      },
+      {
+        "name": "Bushbuckridge Local Municipality",
+        "municipal": "99%",
+        "disinfectant": "96%",
+        "non_health_aesthetic": "91%"
+      },
+      {
+        "name": "Cape Agulhas Local Municipality",
+        "municipal": "7%",
+        "disinfectant": "89%",
+        "non_health_aesthetic": "87%"
+      },
+      {
+        "name": "Capricorn District municipality",
+        "municipal": "No Data",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "68%"
+      },
+      {
+        "name": "Cederberg Local Municipality",
+        "municipal": "4%",
+        "disinfectant": "92%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Chris Hani District municipality",
+        "municipal": "26%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "77%"
+      },
+      {
+        "name": "City of Cape Town Metropolitan Municipality",
+        "municipal": "83%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "99%"
+      },
+      {
+        "name": "City of Ekurhuleni",
+        "municipal": "96%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "99%"
+      },
+      {
+        "name": "City of Johannesburg Metropolitan Municipality",
+        "municipal": "92%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "99%"
+      },
+      {
+        "name": "City of Tshwane Metropolitan Municipality",
+        "municipal": "31%",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Dawid Kruiper",
+        "municipal": "95%",
+        "disinfectant": "92%",
+        "non_health_aesthetic": "79%"
+      },
+      {
+        "name": "Dihlabeng Local Municipality",
+        "municipal": "79%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "93%"
+      },
+      {
+        "name": "Dikgatlong Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "88%",
+        "non_health_aesthetic": "66%"
+      },
+      {
+        "name": "Dipaleseng Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Dr Beyers Naude",
+        "municipal": "No Data",
+        "disinfectant": "75%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Dr JS Moroka Local Municipality",
+        "municipal": "7%",
+        "disinfectant": "76%",
+        "non_health_aesthetic": "76%"
+      },
+      {
+        "name": "Dr. Ruth S Mompati District Municipality",
+        "municipal": "48%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "81%"
+      },
+      {
+        "name": "Drakenstein Local Municipality",
+        "municipal": "61%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "93%"
+      },
+      {
+        "name": "Emakhazeni Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "56%"
+      },
+      {
+        "name": "Emalahleni Local Municipality",
+        "municipal": "28%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Emfuleni Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "93%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Emthanjeni Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "67%"
+      },
+      {
+        "name": "eThekwini Metropolitan Municipality",
+        "municipal": "80%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "98%"
+      },
+      {
+        "name": "Ga-Segonyana Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "95%"
+      },
+      {
+        "name": "Gamagara Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "85%"
+      },
+      {
+        "name": "George Local Municipality",
+        "municipal": "97%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "97%"
+      },
+      {
+        "name": "Govan Mbeki Local Municipality",
+        "municipal": "41%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "98%"
+      },
+      {
+        "name": "Greater Sekhukhune District Municipality",
+        "municipal": "72%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "Hantam Local Municipality",
+        "municipal": "66%",
+        "disinfectant": "84%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "Harry Gwala District municipality",
+        "municipal": "54%",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "86%"
+      },
+      {
+        "name": "Hessequa Local Municipality",
+        "municipal": "17%",
+        "disinfectant": "83%",
+        "non_health_aesthetic": "80%"
+      },
+      {
+        "name": "iLembe District municipality",
+        "municipal": "68%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "JB Marks Local Municipality",
+        "municipal": "95%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "98%"
+      },
+      {
+        "name": "Joe Gqabi District municipality",
+        "municipal": "No Data",
+        "disinfectant": "92%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Joe Morolong Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Kai !Garib Local Municipality",
+        "municipal": "14%",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "78%"
+      },
+      {
+        "name": "Kamiesberg Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Kannaland Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "86%"
+      },
+      {
+        "name": "Kareeberg Local Municipality",
+        "municipal": "5%",
+        "disinfectant": "94%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Karoo Hoogland Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "75%"
+      },
+      {
+        "name": "Karoo-hoogland",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Kathu Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Kenneth Kaunda District Municipality",
+        "municipal": "51%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Knysna Local Municipality",
+        "municipal": "61%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Kopanong Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Kouga Local Municipality",
+        "municipal": "76%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "94%"
+      },
+      {
+        "name": "Kuruman",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Langeberg Local Municipality",
+        "municipal": "18%",
+        "disinfectant": "94%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Lesedi Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "86%",
+        "non_health_aesthetic": "75%"
+      },
+      {
+        "name": "Letsemeng Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "90%",
+        "non_health_aesthetic": "74%"
+      },
+      {
+        "name": "Limpopo District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "69%"
+      },
+      {
+        "name": "Mafube Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "92%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Makhado Local Municipality",
+        "municipal": "32%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Makana Local Municipality",
+        "municipal": "58%",
+        "disinfectant": "96%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "Maluti-a-Phofung Local Municipality",
+        "municipal": "29%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "83%"
+      },
+      {
+        "name": "Mangaung Metropolitan Municipality",
+        "municipal": "60%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Matatiele Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "91%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Matjhabeng Local Municipality",
+        "municipal": "23%",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Merafong City Local Municipality",
+        "municipal": "86%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "95%"
+      },
+      {
+        "name": "Metsimaholo Local Municipality",
+        "municipal": "40%",
+        "disinfectant": "96%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Mogale City Local Municipality",
+        "municipal": "72%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "93%"
+      },
+      {
+        "name": "Mogalakwena Local Municipality",
+        "municipal": "60%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "85%"
+      },
+      {
+        "name": "Mookgopong Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "86%",
+        "non_health_aesthetic": "76%"
+      },
+      {
+        "name": "Moses Kotane Local Municipality",
+        "municipal": "71%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "91%"
+      },
+      {
+        "name": "Msukaligwa Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "94%",
+        "non_health_aesthetic": "79%"
+      },
+      {
+        "name": "Msunduzi Local Municipality",
+        "municipal": "29%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "81%"
+      },
+      {
+        "name": "Mtubatuba Local Municipality",
+        "municipal": "80%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "94%"
+      },
+      {
+        "name": "Namakwa District Municipality",
+        "municipal": "52%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Nelson Mandela Bay Metropolitan Municipality",
+        "municipal": "73%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "94%"
+      },
+      {
+        "name": "Ngaka Modiri Molema District Municipality",
+        "municipal": "71%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "85%"
+      },
+      {
+        "name": "Nkangala District Municipality",
+        "municipal": "55%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Nkomazi Local Municipality",
+        "municipal": "16%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "78%"
+      },
+      {
+        "name": "Nongoma Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "North West District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "65%"
+      },
+      {
+        "name": "O.R. Tambo District Municipality",
+        "municipal": "33%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "80%"
+      },
+      {
+        "name": "Overberg District Municipality",
+        "municipal": "72%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Pixley ka Seme District Municipality",
+        "municipal": "23%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "79%"
+      },
+      {
+        "name": "Port St Johns Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "91%",
+        "non_health_aesthetic": "80%"
+      },
+      {
+        "name": "Prince Albert Local Municipality",
+        "municipal": "67%",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Rand West City Local Municipality",
+        "municipal": "77%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "91%"
+      },
+      {
+        "name": "Ratlou Local Municipality",
+        "municipal": "82%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Ray Nkonyeni Local Municipality",
+        "municipal": "56%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "88%"
+      },
+      {
+        "name": "Renosterberg Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "73%"
+      },
+      {
+        "name": "Richards Bay",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Richmond Local Municipality",
+        "municipal": "48%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "Saldanha Bay Local Municipality",
+        "municipal": "51%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "87%"
+      },
+      {
+        "name": "Siyanda District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "75%"
+      },
+      {
+        "name": "Sol Plaatje Local Municipality",
+        "municipal": "39%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "Stellenbosch Local Municipality",
+        "municipal": "52%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "Steve Tshwete Local Municipality",
+        "municipal": "74%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "92%"
+      },
+      {
+        "name": "Swellendam Local Municipality",
+        "municipal": "58%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "Tlokwe City Council",
+        "municipal": "59%",
+        "disinfectant": "96%",
+        "non_health_aesthetic": "87%"
+      },
+      {
+        "name": "Tswaing Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "No Data"
+      },
+      {
+        "name": "Ugu District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "94%",
+        "non_health_aesthetic": "76%"
+      },
+      {
+        "name": "uMhlathuze Local Municipality",
+        "municipal": "43%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "84%"
+      },
+      {
+        "name": "uMlalazi Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "95%",
+        "non_health_aesthetic": "80%"
+      },
+      {
+        "name": "uMzimkhulu Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "81%"
+      },
+      {
+        "name": "uMzinyathi District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "96%",
+        "non_health_aesthetic": "76%"
+      },
+      {
+        "name": "uThukela District Municipality",
+        "municipal": "41%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "uThungulu District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "77%"
+      },
+      {
+        "name": "Ventersdorp Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "78%"
+      },
+      {
+        "name": "Vhembe District Municipality",
+        "municipal": "60%",
+        "disinfectant": "100%",
+        "non_health_aesthetic": "86%"
+      },
+      {
+        "name": "Victor Khanye Local Municipality",
+        "municipal": "No Data",
+        "disinfectant": "92%",
+        "non_health_aesthetic": "79%"
+      },
+      {
+        "name": "Waterberg District Municipality",
+        "municipal": "47%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "82%"
+      },
+      {
+        "name": "West Coast District Municipality",
+        "municipal": "65%",
+        "disinfectant": "98%",
+        "non_health_aesthetic": "89%"
+      },
+      {
+        "name": "West Rand District Municipality",
+        "municipal": "77%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Westonaria Local Municipality",
+        "municipal": "66%",
+        "disinfectant": "99%",
+        "non_health_aesthetic": "87%"
+      },
+      {
+        "name": "Witzenberg Local Municipality",
+        "municipal": "72%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "90%"
+      },
+      {
+        "name": "Xhariep District Municipality",
+        "municipal": "No Data",
+        "disinfectant": "No Data",
+        "non_health_aesthetic": "70%"
+      },
+      {
+        "name": "Zululand District Municipality",
+        "municipal": "33%",
+        "disinfectant": "97%",
+        "non_health_aesthetic": "79%"
+      }
+    ]
+  }
